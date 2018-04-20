@@ -5,6 +5,8 @@
 by Julianna Wu
 
 Highlight:
+- D3 interactive network
+- igraph network
+- social media network analysis basics
 
-
-R source code: https://github.com/JuliannaWQY/socialmedia3/blob/gh-pages/assignment4.R
+R source code: https://github.com/JuliannaWQY/socialmedia4/blob/gh-pages/assignment4.R
